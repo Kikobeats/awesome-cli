@@ -88,6 +88,12 @@
 
 ![](https://github.com/queckezz/fmt-obj/raw/master/intro.png)
 
+### [gradient-string](https://github.com/bokub/gradient-string)
+
+> Beautiful color gradients in terminal output.
+
+![](https://camo.githubusercontent.com/087ab9fcdb5e73a2377a54011a1c2cd4c1e73420/687474703a2f2f6269742e6c792f32746c6d53674c)
+
 ### [prettycli](https://github.com/siddharthkp/prettycli)
 
 > Pretty print messages on the terminal.
