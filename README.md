@@ -42,6 +42,12 @@
 
 ![](https://camo.githubusercontent.com/4b32c4fd76b80ff6e1703ac8e2e2d33cfa26e378/68747470733a2f2f63646e2e7261776769742e636f6d2f6d6172696f6e65626c2f7376672d7465726d2d636c692f31626236316563612f6578616d706c65732f706172726f742e737667)
 
+### [ink](https://github.com/vadimdemedes/ink)
+
+> React for interactive command-line apps.
+
+![](https://github.com/vadimdemedes/ink/raw/master/media/demo.gif)
+
 ## Input
 
 ### [ansi-diff-stream](https://github.com/mafintosh/ansi-diff-stream)
