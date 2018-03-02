@@ -131,4 +131,6 @@
 
 ### [prompts](https://github.com/terkelg/prompts)
 
+> Lightweight, beautiful and user-friendly interactive prompts
+
 ![](https://github.com/terkelg/prompts/raw/master/media/number.gif)
