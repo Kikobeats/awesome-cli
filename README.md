@@ -127,3 +127,8 @@
 > Update notifications for your CLI app.
 
 ![](https://github.com/yeoman/update-notifier/raw/master/screenshot.png)
+
+
+### [prompts](https://github.com/terkelg/prompts)
+
+![](https://github.com/terkelg/prompts/raw/master/media/number.gif)
