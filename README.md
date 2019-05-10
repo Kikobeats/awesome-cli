@@ -1,136 +1,89 @@
 # Awesome CLI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/Kikobeats/awesome-cli/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/awesome-cli) [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/kikobeats)
 
-> A curated list of awesome resources for building immersive CLI experiences.
+> A curated list of things related with Command Line Interfaces (CLI).
 
 ## Animation
 
-### [chalk-animation](https://github.com/bokub/chalk-animation)
+![](https://github.com/sindresorhus/ora/raw/master/screenshot.svg?sanitize=true)
 
-> Colorful animations in terminal output.
+<br/>
 
-![](https://camo.githubusercontent.com/163f6985878578c36b2912dc92960e007c628c07/687474703a2f2f692e696d6775722e636f6d2f6e61706478646e2e676966)
+- ⭐ [ora](https://github.com/sindresorhus/ora) – Elegant terminal spinner.
+- [progress-string](https://github.com/watson/progress-string) – Progress bar to be placed anywhere.
+- [single-line-log](https://github.com/freeall/single-line-log) – Keep writing to the same line in the terminal.
 
-### [cli-spinners](https://github.com/sindresorhus/cli-spinners)
+## Colorize
 
-> 60+ spinners for use in the terminal.
+![](https://camo.githubusercontent.com/036b5e5ae84937a17ce0a1a424aeb6f7eb23863f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6368616c6b2f616e73692d7374796c657340383236313639376339356266333462366337373637653263626539393431613835316435393338352f73637265656e73686f742e737667)
 
-![](https://github.com/sindresorhus/cli-spinners/raw/master/screenshot.gif)
+<br/>
 
-### [ora](https://github.com/sindresorhus/ora)
-
-> Elegant terminal spinner.
-
-![](https://github.com/sindresorhus/ora/raw/master/screenshot.gif)
-
-### [progress](https://github.com/visionmedia/node-progress)
-
-> Flexible ascii progress bar.
-
-### [progress-string](https://github.com/watson/progress-string)
-
-> Generate a CLI progress bar as a string that you can then output in any way you like.
-
-![](https://cloud.githubusercontent.com/assets/10602/20219491/064d4794-a86d-11e6-816c-a0a72d792987.gif)
-
-### [single-line-log](https://github.com/freeall/single-line-log)
-
-> Output one line and move to beginning of line. Useful for progress bars and counters with no breaks in the terminal.
-
-### [svg-term](https://github.com/marionebl/svg-term-cli)
-
-> Render SVG on terminal.
-
-![](https://camo.githubusercontent.com/4b32c4fd76b80ff6e1703ac8e2e2d33cfa26e378/68747470733a2f2f63646e2e7261776769742e636f6d2f6d6172696f6e65626c2f7376672d7465726d2d636c692f31626236316563612f6578616d706c65732f706172726f742e737667)
-
-### [ink](https://github.com/vadimdemedes/ink)
-
-> React for interactive command-line apps.
-
-![](https://github.com/vadimdemedes/ink/raw/master/media/demo.gif)
+- ⭐ [chalk](https://github.com/chalk/chalk) – Terminal string styling done right.
+- [chalk-animation](https://github.com/bokub/chalk-animation) – Colorful animations in terminal output.
+- [gradient-string](https://github.com/bokub/gradient-string) – Beautiful color gradients in terminal output.
+- [boxen](https://github.com/sindresorhus/boxen) – Create boxes in the terminal.
+- [sparkly](https://github.com/sindresorhus/sparkly) – Generate sparklines.
 
 ## Input
 
-### [ansi-diff-stream](https://github.com/mafintosh/ansi-diff-stream)
+![](https://github.com/terkelg/prompts/raw/master/media/number.gif)
 
-> A transform stream that diffs input buffers and outputs the diff as ANSI. If you pipe this to a terminal it will update the output with minimal changes.
-
-### [email-prompt](https://github.com/zeit/email-prompt)
-
-> CLI email prompt with autocompletion and built-in validation.
-
-![](https://cloud.githubusercontent.com/assets/13041/15456597/36b76246-202a-11e6-99e8-3839514bed57.gif)
-
-### [inquirer](https://github.com/SBoudrias/Inquirer.js)
-
-> A collection of common interactive command line user interfaces.
-
-![](https://github.com/SBoudrias/Inquirer.js/raw/master/assets/screenshots/checkbox-prompt.png)
-
-### [meow](https://github.com/sindresorhus/meow)
-
-> CLI app helper.
-
-### [neat-input](https://github.com/mafintosh/neat-input)
-
-> A diff friendly cli input module. Made for usage with neat-log and ansi-diff-stream.
+- ⭐ [qoa](https://github.com/klaussinani/qoa) – Minimal interactive command-line prompts.
+- [prompts](https://github.com/terkelg/prompts) – Lightweight, beautiful and user-friendly interactive prompts.
+- [ansi-diff-stream](https://github.com/mafintosh/ansi-diff-stream) – A diff friendly cli input module.
+- [email-prompt](https://github.com/zeit/email-prompt) – CLI email prompt featuring autocompletion and validation.
 
 ## Output
 
-### [acho-skin-cli](https://github.com/achojs/acho-skin-cli)
+![](https://camo.githubusercontent.com/7addcc5bd520c8d9fe4274e6c9f42e8494635cec/68747470733a2f2f63646e2e7261776769742e636f6d2f7369646468617274686b702f707265747479636c692f333135656364342f73637265656e73686f742e737667)
 
-> A log types for create CLI commands.
+<br/>
 
-![](https://raw.githubusercontent.com/achohq/acho-skin-cli/master/docs/images/resume.png)
+- [prettycli](https://github.com/siddharthkp/prettycli)\
+- [fmt-obj](https://github.com/queckezz/fmt-obj)
+- [beauty-error](https://github.com/Kikobeats/beauty-error) – Getting a beauty error. Oriented for well printed errors.
+- [terminal-link](https://github.com/sindresorhus/terminal-link) – Create clickable links in the terminal.
+- [jsome](https://github.com/Javascipt/Jsome) – Pretty format JSON on terminal.
+- [term-img](https://github.com/sindresorhus/term-img) – Display images in iTerm.
 
-### [chalk](https://github.com/chalk/chalk)
+## Framework
 
-> Terminal string styling done right.
+![](https://github.com/vadimdemedes/ink/raw/master/media/demo.svg?sanitize=true)
 
-![](https://github.com/chalk/ansi-styles/raw/master/screenshot.png)
+<br/>
 
-### [figures](https://github.com/sindresorhus/figures)
+- ⭐ [ink](https://github.com/vadimdemedes/ink) – React for interactive command-line apps.
+- [neat-log](https://github.com/neat-log/neat-log) – Stateful Command Line Applications.
 
-> Unicode symbols with Windows CMD fallbacks.
-
-![](https://github.com/sindresorhus/figures/raw/master/screenshot.png)
-
-### [fmt-obj](https://github.com/queckezz/fmt-obj)
-
-> Prettifies any javascript object in your console.
-
-![](https://github.com/queckezz/fmt-obj/raw/master/intro.png)
-
-### [gradient-string](https://github.com/bokub/gradient-string)
-
-> Beautiful color gradients in terminal output.
-
-![](https://camo.githubusercontent.com/087ab9fcdb5e73a2377a54011a1c2cd4c1e73420/687474703a2f2f6269742e6c792f32746c6d53674c)
-
-### [prettycli](https://github.com/siddharthkp/prettycli)
-
-> Pretty print messages on the terminal.
-
-![](https://raw.githubusercontent.com/siddharthkp/prettycli/master/screenshot.png)
-
-## Other
-
-### [magicli](https://github.com/DiegoZoracKy/magicli)
-
-> Automagically generates command-line interfaces (CLI) for any module.
-
-### [signal-exit](https://github.com/tapjs/signal-exit)
-
-> when you want to fire an event no matter how a process exits.
-
-### [update-notifier](https://github.com/yeoman/update-notifier)
-
-> Update notifications for your CLI app.
+## Helpful
 
 ![](https://github.com/yeoman/update-notifier/raw/master/screenshot.png)
 
+<br/>
 
-### [prompts](https://github.com/terkelg/prompts)
+- ⭐ [meow](https://github.com/sindresorhus/meow) – CLI app helper.
+- [update-notifier](https://github.com/yeoman/update-notifier) – Update notifications for your CLI app.
+- [signal-exit](https://github.com/tapjs/signal-exit) – When you want to fire an event no matter how a process exits.
+- [clipboardy](https://github.com/sindresorhus/clipboardy) – Access the system clipboard (copy/paste).
+- [indent-string](https://github.com/sindresorhus/indent-string) – Indent each line in a string.
 
-> Lightweight, beautiful and user-friendly interactive prompts
+### Lovely Commands
 
-![](https://github.com/terkelg/prompts/raw/master/media/number.gif)
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) – Good-lookin' diffs with diff-highlight and more.
+- [entrp](http://eradman.com/entrproject/) – Run arbitrary commands when files change.
+- [gnomon](https://github.com/paypal/gnomon) – Perfect for analyze quickly logs
+- [htop](https://github.com/hishamhm/htop) – htop is an interactive `top`.
+- [hub](https://github.com/github/hub) – hub helps you win at git.
+- [jq](https://github.com/stedolan/jq) – Command-line JSON processor. [1](https://twitter.com/tjholowaychuk/status/876951581119229953)
+- [peco](https://github.com/peco/peco) – Simplistic interactive filtering tool.
+- [share](https://github.com/marionebl/share-cli) – Quickly share files from your command line.
+- [clipboard](https://github.com/sindresorhus/clipboard-cli) – Access the system clipboard (copy/paste).
+- [pv](https://github.com/icetee/pv) – Monitoring the progress of data through a pipeline.
+- [fx](https://github.com/antonmedv/fx) – Command-line JSON processing tool.
+- [spot](https://github.com/rauchg/spot) – Tiny search utility.
+- [share](https://github.com/marionebl/share-cli#readme) – Quickly share files from your command line.
+
+### Bibliography
+
+- [12 Factor CLI Apps](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46).
