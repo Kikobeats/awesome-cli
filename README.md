@@ -8,6 +8,7 @@
   <br>
   <img src="https://github.com/sindresorhus/ora/raw/master/screenshot.svg?sanitize=true">
   <br>
+  <br>
 </div>
 
 - ⭐[ora](https://github.com/sindresorhus/ora) – Elegant terminal spinner.
