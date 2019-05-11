@@ -8,7 +8,7 @@
 
 <br/>
 
-- ⭐ [ora](https://github.com/sindresorhus/ora) – Elegant terminal spinner.
+- ⭐[ora](https://github.com/sindresorhus/ora) – Elegant terminal spinner.
 - [progress-string](https://github.com/watson/progress-string) – Progress bar to be placed anywhere.
 - [single-line-log](https://github.com/freeall/single-line-log) – Keep writing to the same line in the terminal.
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-- ⭐ [chalk](https://github.com/chalk/chalk) – Terminal string styling done right.
+- ⭐[chalk](https://github.com/chalk/chalk) – Terminal string styling done right.
 - [chalk-animation](https://github.com/bokub/chalk-animation) – Colorful animations in terminal output.
 - [gradient-string](https://github.com/bokub/gradient-string) – Beautiful color gradients in terminal output.
 - [boxen](https://github.com/sindresorhus/boxen) – Create boxes in the terminal.
@@ -28,7 +28,7 @@
 
 ![](https://github.com/terkelg/prompts/raw/master/media/number.gif)
 
-- ⭐ [qoa](https://github.com/klaussinani/qoa) – Minimal interactive command-line prompts.
+- ⭐[qoa](https://github.com/klaussinani/qoa) – Minimal interactive command-line prompts.
 - [prompts](https://github.com/terkelg/prompts) – Lightweight, beautiful and user-friendly interactive prompts.
 - [ansi-diff-stream](https://github.com/mafintosh/ansi-diff-stream) – A diff friendly cli input module.
 - [email-prompt](https://github.com/zeit/email-prompt) – CLI email prompt featuring autocompletion and validation.
@@ -39,8 +39,8 @@
 
 <br/>
 
-- [prettycli](https://github.com/siddharthkp/prettycli)\
-- [fmt-obj](https://github.com/queckezz/fmt-obj)
+- [prettycli](https://github.com/siddharthkp/prettycli) – Pretty print messages on the terminal.
+- [fmt-obj](https://github.com/queckezz/fmt-obj) – Stringifies any javascript object in your console for CLI inspection.
 - [beauty-error](https://github.com/Kikobeats/beauty-error) – Getting a beauty error. Oriented for well printed errors.
 - [terminal-link](https://github.com/sindresorhus/terminal-link) – Create clickable links in the terminal.
 - [jsome](https://github.com/Javascipt/Jsome) – Pretty format JSON on terminal.
@@ -52,7 +52,7 @@
 
 <br/>
 
-- ⭐ [ink](https://github.com/vadimdemedes/ink) – React for interactive command-line apps.
+- ⭐[ink](https://github.com/vadimdemedes/ink) – React for interactive command-line apps.
 - [neat-log](https://github.com/neat-log/neat-log) – Stateful Command Line Applications.
 
 ## Helpful
@@ -61,7 +61,7 @@
 
 <br/>
 
-- ⭐ [meow](https://github.com/sindresorhus/meow) – CLI app helper.
+- ⭐[meow](https://github.com/sindresorhus/meow) – CLI app helper.
 - [update-notifier](https://github.com/yeoman/update-notifier) – Update notifications for your CLI app.
 - [signal-exit](https://github.com/tapjs/signal-exit) – When you want to fire an event no matter how a process exits.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) – Access the system clipboard (copy/paste).
