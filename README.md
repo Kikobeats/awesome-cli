@@ -17,9 +17,12 @@
 
 ## Colorize
 
-![](https://camo.githubusercontent.com/036b5e5ae84937a17ce0a1a424aeb6f7eb23863f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6368616c6b2f616e73692d7374796c657340383236313639376339356266333462366337373637653263626539393431613835316435393338352f73637265656e73686f742e737667)
-
-<br/>
+<div align="center">
+  <br>
+  <img src="https://camo.githubusercontent.com/036b5e5ae84937a17ce0a1a424aeb6f7eb23863f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6368616c6b2f616e73692d7374796c657340383236313639376339356266333462366337373637653263626539393431613835316435393338352f73637265656e73686f742e737667">
+  <br>
+  <br>
+</div>
 
 - ⭐[chalk](https://github.com/chalk/chalk) – Terminal string styling done right.
 - [chalk-animation](https://github.com/bokub/chalk-animation) – Colorful animations in terminal output.
@@ -29,7 +32,12 @@
 
 ## Input
 
-![](https://github.com/terkelg/prompts/raw/master/media/number.gif)
+<div align="center">
+  <br>
+  <img src="https://github.com/terkelg/prompts/raw/master/media/number.gif">
+  <br>
+  <br>
+</div>
 
 - ⭐[qoa](https://github.com/klaussinani/qoa) – Minimal interactive command-line prompts.
 - [prompts](https://github.com/terkelg/prompts) – Lightweight, beautiful and user-friendly interactive prompts.
@@ -38,9 +46,12 @@
 
 ## Output
 
-![](https://camo.githubusercontent.com/7addcc5bd520c8d9fe4274e6c9f42e8494635cec/68747470733a2f2f63646e2e7261776769742e636f6d2f7369646468617274686b702f707265747479636c692f333135656364342f73637265656e73686f742e737667)
-
-<br/>
+<div align="center">
+  <br>
+  <img src="https://camo.githubusercontent.com/7addcc5bd520c8d9fe4274e6c9f42e8494635cec/68747470733a2f2f63646e2e7261776769742e636f6d2f7369646468617274686b702f707265747479636c692f333135656364342f73637265656e73686f742e737667">
+  <br>
+  <br>
+</div>
 
 - [prettycli](https://github.com/siddharthkp/prettycli) – Pretty print messages on the terminal.
 - [fmt-obj](https://github.com/queckezz/fmt-obj) – Stringifies any javascript object in your console for CLI inspection.
@@ -51,18 +62,24 @@
 
 ## Framework
 
-![](https://github.com/vadimdemedes/ink/raw/master/media/demo.svg?sanitize=true)
-
-<br/>
+<div align="center">
+  <br>
+  <img src="https://github.com/vadimdemedes/ink/raw/master/media/demo.svg?sanitize=true">
+  <br>
+  <br>
+</div>
 
 - ⭐[ink](https://github.com/vadimdemedes/ink) – React for interactive command-line apps.
 - [neat-log](https://github.com/neat-log/neat-log) – Stateful Command Line Applications.
 
 ## Helpful
 
-![](https://github.com/yeoman/update-notifier/raw/master/screenshot.png)
-
-<br/>
+<div align="center">
+  <br>
+  <img src="https://github.com/yeoman/update-notifier/raw/master/screenshot.png">
+  <br>
+  <br>
+</div>
 
 - ⭐[meow](https://github.com/sindresorhus/meow) – CLI app helper.
 - [update-notifier](https://github.com/yeoman/update-notifier) – Update notifications for your CLI app.
@@ -72,10 +89,12 @@
 
 ### Lovely Commands
 
-
-![](https://camo.githubusercontent.com/b5df8c57792e443a18a56cd9a292b1a101ba2391/68747470733a2f2f6d6564762e696f2f6173736574732f66782e676966)
-
-<br/>
+<div align="center">
+  <br>
+  <img src="https://camo.githubusercontent.com/b5df8c57792e443a18a56cd9a292b1a101ba2391/68747470733a2f2f6d6564762e696f2f6173736574732f66782e676966">
+  <br>
+  <br>
+</div>
 
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) – Good-lookin' diffs with diff-highlight and more.
