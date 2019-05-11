@@ -91,7 +91,7 @@
 
 <div align="center">
   <br>
-  <img width="500" src="https://camo.githubusercontent.com/b5df8c57792e443a18a56cd9a292b1a101ba2391/68747470733a2f2f6d6564762e696f2f6173736574732f66782e676966">
+  <img width="500" src="https://raw.githubusercontent.com/marionebl/share-cli/master/demo.svg?sanitize=true">
   <br>
   <br>
 </div>
