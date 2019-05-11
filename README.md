@@ -4,9 +4,11 @@
 
 ## Animation
 
-![](https://github.com/sindresorhus/ora/raw/master/screenshot.svg?sanitize=true)
-
-<br/>
+<div align="center">
+  <br>
+  <img src="https://github.com/sindresorhus/ora/raw/master/screenshot.svg?sanitize=true">
+  <br>
+</div>
 
 - ⭐[ora](https://github.com/sindresorhus/ora) – Elegant terminal spinner.
 - [progress-string](https://github.com/watson/progress-string) – Progress bar to be placed anywhere.
@@ -68,6 +70,11 @@
 - [indent-string](https://github.com/sindresorhus/indent-string) – Indent each line in a string.
 
 ### Lovely Commands
+
+
+![](https://camo.githubusercontent.com/b5df8c57792e443a18a56cd9a292b1a101ba2391/68747470733a2f2f6d6564762e696f2f6173736574732f66782e676966)
+
+<br/>
 
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) – Good-lookin' diffs with diff-highlight and more.
