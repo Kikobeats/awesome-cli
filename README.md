@@ -111,6 +111,10 @@
 - [spot](https://github.com/rauchg/spot) – Tiny search utility.
 - [share](https://github.com/marionebl/share-cli#readme) – Quickly share files from your command line.
 
+### Build
+
+- [cbf](https://github.com/joshuatvernon/cbf) - Build a custom cli app with only a json or yaml file.
+
 ### Bibliography
 
 - [12 Factor CLI Apps](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46).
