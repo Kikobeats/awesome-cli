@@ -97,19 +97,24 @@
 </div>
 
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [clipboard](https://github.com/sindresorhus/clipboard-cli) – Access the system clipboard (copy/paste).
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) – Good-lookin' diffs with diff-highlight and more.
-- [entrp](http://eradman.com/entrproject/) – Run arbitrary commands when files change.
+- [entrp](http://eradman.com/entrproject/) – Run arbitrary commands when files change ([alternative](https://github.com/watchexec/watchexec)).
+- [exa](https://github.com/ogham/exa) – A modern replacement for `ls`.
+- [fd](https://github.com/sharkdp/fd) – A simple, fast and user-friendly alternative to `find`.
+- [fx](https://github.com/antonmedv/fx) – Command-line JSON processing tool.
 - [gnomon](https://github.com/paypal/gnomon) – Perfect for analyze quickly logs
 - [htop](https://github.com/hishamhm/htop) – htop is an interactive `top`.
 - [hub](https://github.com/github/hub) – hub helps you win at git.
 - [jq](https://github.com/stedolan/jq) – Command-line JSON processor. [1](https://twitter.com/tjholowaychuk/status/876951581119229953)
+- [mdcat](https://github.com/lunaryorn/mdcat) – `cat` for markdown.
+- [ncdu](https://github.com/rofl0r/ncdu) – Interactive disk usage.
 - [peco](https://github.com/peco/peco) – Simplistic interactive filtering tool.
-- [share](https://github.com/marionebl/share-cli) – Quickly share files from your command line.
-- [clipboard](https://github.com/sindresorhus/clipboard-cli) – Access the system clipboard (copy/paste).
 - [pv](https://github.com/icetee/pv) – Monitoring the progress of data through a pipeline.
-- [fx](https://github.com/antonmedv/fx) – Command-line JSON processing tool.
-- [spot](https://github.com/rauchg/spot) – Tiny search utility.
+- [share](https://github.com/marionebl/share-cli) – Quickly share files from your command line.
 - [share](https://github.com/marionebl/share-cli#readme) – Quickly share files from your command line.
+- [spot](https://github.com/rauchg/spot) – Tiny search utility.
+- [z]( jump around) – The definity directory jumper.
 
 ### Bibliography
 
