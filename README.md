@@ -60,6 +60,7 @@
 - [jsome](https://github.com/Javascipt/Jsome) – Pretty format JSON on terminal.
 - [term-img](https://github.com/sindresorhus/term-img) – Display images in iTerm.
 - [neat-log](https://github.com/neat-log/neat-log) – Logger for stateful Command Line Applications.
+- [cli-table3](https://github.com/cli-table/cli-table3) - Pretty unicode tables for the command line.
 
 ## Framework
 
