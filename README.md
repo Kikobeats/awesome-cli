@@ -104,6 +104,7 @@
 - [exa](https://github.com/ogham/exa) – A modern replacement for `ls`.
 - [fd](https://github.com/sharkdp/fd) – A simple, fast and user-friendly alternative to `find`.
 - [fx](https://github.com/antonmedv/fx) – Command-line JSON processing tool.
+- [fzf](https://github.com/junegunn/fzf) – A command-line fuzzy finder.
 - [gnomon](https://github.com/paypal/gnomon) – Perfect for analyze quickly logs
 - [htop](https://github.com/hishamhm/htop) – htop is an interactive `top`.
 - [httpstat](https://github.com/reorx/httpstat) – `curl` statistics made simple
