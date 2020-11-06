@@ -111,6 +111,7 @@
 - [hub](https://github.com/github/hub) – hub helps you win at git.
 - [hyperfine](https://github.com/sharkdp/hyperfine) – A command-line benchmarking tool.
 - [jq](https://github.com/stedolan/jq) – Command-line JSON processor. [1](https://twitter.com/tjholowaychuk/status/876951581119229953)
+- [gron](https://github.com/tomnomnom/gron) – Make JSON greppable.
 - [glow](https://github.com/charmbracelet/glow) – Render markdown on the CLI.
 - [ncdu](https://github.com/rofl0r/ncdu) – Interactive disk usage.
 - [peco](https://github.com/peco/peco) – Simplistic interactive filtering tool.
