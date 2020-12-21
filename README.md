@@ -102,6 +102,7 @@
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) – Good-lookin' diffs with diff-highlight and more.
 - [entrp](http://eradman.com/entrproject/) – Run arbitrary commands when files change ([alternative](https://github.com/watchexec/watchexec)).
 - [exa](https://github.com/ogham/exa) – A modern replacement for `ls`.
+- [dog](https://github.com/ogham/dog) –  Command-line DNS client alternative to `dig`.
 - [fd](https://github.com/sharkdp/fd) – A simple, fast and user-friendly alternative to `find`.
 - [fx](https://github.com/antonmedv/fx) – Command-line JSON processing tool.
 - [fzf](https://github.com/junegunn/fzf) – A command-line fuzzy finder.
