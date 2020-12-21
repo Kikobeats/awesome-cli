@@ -1,4 +1,4 @@
-# Awesome CLI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/Kikobeats/awesome-cli/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/awesome-cli) [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/kikobeats)
+# Awesome CLI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/Kikobeats/awesome-cli/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/awesome-cli)
 
 > A curated list of things related with Command Line Interfaces (CLI).
 
