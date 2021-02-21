@@ -88,7 +88,7 @@
 
 <div align="center">
   <br>
-  <img width="500 src="https://github.com/yeoman/update-notifier/raw/master/screenshot.png">
+  <img width="500 src="https://github.com/yeoman/update-notifier/raw/main/screenshot.png">
   <br>
   <br>
 </div>
