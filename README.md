@@ -2,7 +2,7 @@
 
 > A curated list of things related with Command Line Interfaces (CLI).
 
-## Table of Content
+## Contents
 
 - [Animation](#animation)
 - [Colorize](#colorize)
@@ -17,12 +17,12 @@
 
 <div align="center">
   <br>
-  <img width="500" src="https://github.com/sindresorhus/ora/raw/master/screenshot.svg?sanitize=true">
+  <img width="500" src="https://github.com/sindresorhus/ora/raw/main/screenshot.svg?sanitize=true">
   <br>
   <br>
 </div>
 
-- ⭐[ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+- [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 - [progress-string](https://github.com/watson/progress-string) - Progress bar to be placed anywhere.
 - [single-line-log](https://github.com/freeall/single-line-log) - Keep writing to the same line in the terminal.
 
@@ -35,7 +35,7 @@
   <br>
 </div>
 
-- ⭐[chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
+- [chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
 - [chalk-animation](https://github.com/bokub/chalk-animation) - Colorful animations in terminal output.
 - [gradient-string](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 - [boxen](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
@@ -50,7 +50,7 @@
   <br>
 </div>
 
-- ⭐[qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts.
+- [qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts.
 - [prompts](https://github.com/terkelg/prompts) - Lightweight, beautiful and user-friendly interactive prompts.
 - [ansi-diff-stream](https://github.com/mafintosh/ansi-diff-stream) - A diff friendly cli input module.
 - [email-prompt](https://github.com/zeit/email-prompt) - CLI email prompt featuring autocompletion and validation.
@@ -82,7 +82,7 @@
   <br>
 </div>
 
-- ⭐[ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
+- [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
 
 ## Helpful
 
@@ -93,7 +93,7 @@
   <br>
 </div>
 
-- ⭐[meow](https://github.com/sindresorhus/meow) - CLI app helper.
+- [meow](https://github.com/sindresorhus/meow) - CLI app helper.
 - [update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app.
 - [signal-exit](https://github.com/tapjs/signal-exit) - When you want to fire an event no matter how a process exits.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
