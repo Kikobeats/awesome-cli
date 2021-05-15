@@ -130,6 +130,7 @@
 - [pv](https://github.com/icetee/pv) - Monitoring the progress of data through a pipeline.
 - [share](https://github.com/marionebl/share-cli) - Quickly share files from your command line.
 - [spot](https://github.com/rauchg/spot) - Tiny search utility.
+- [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
 - [z](https://github.com/rupa/z) - The definity directory jumper.
 
 ## Bibliography
