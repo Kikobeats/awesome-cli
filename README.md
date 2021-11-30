@@ -131,6 +131,7 @@
 - [share](https://github.com/marionebl/share-cli) - Quickly share files from your command line.
 - [spot](https://github.com/rauchg/spot) - Tiny search utility.
 - [z](https://github.com/rupa/z) - The definity directory jumper.
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Works on all major shells.
 
 ## Bibliography
 
