@@ -109,6 +109,7 @@
 </div>
 
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [bore](https://github.com/ekzhang/bore) - Making tunnels to localhost
 - [clipboard](https://github.com/sindresorhus/clipboard-cli) - Access the system clipboard (copy/paste).
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs with diff-highlight and more.
 - [entrp](http://eradman.com/entrproject/) - Run arbitrary commands when files change ([alternative](https://github.com/watchexec/watchexec)).
