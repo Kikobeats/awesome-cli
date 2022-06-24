@@ -132,7 +132,8 @@
 - [share](https://github.com/marionebl/share-cli) - Quickly share files from your command line.
 - [spot](https://github.com/rauchg/spot) - Tiny search utility.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Works on all major shells.
-
+- [recoverpy](https://github.com/PabloLec/RecoverPy) - Recover deleted or overwritten files.
+                                                                                                            
 ## Bibliography
 
 - [12 Factor CLI Apps](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) - 12 principles to build good CLI interfaces.
