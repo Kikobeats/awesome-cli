@@ -98,6 +98,7 @@
 - [signal-exit](https://github.com/tapjs/signal-exit) - When you want to fire an event no matter how a process exits.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
 - [indent-string](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
+- [cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals.
 
 ## Lovely Commands
 
