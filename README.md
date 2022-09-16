@@ -122,6 +122,7 @@
 - [htop](https://github.com/hishamhm/htop) - htop is an interactive `top`.
 - [httpstat](https://github.com/reorx/httpstat) - `curl` statistics made simple.
 - [hub](https://github.com/github/hub) - It helps you win at git.
+- [hgit](https://github.com/metaory/hgit-cli) - Streamline and Simplify complex git processes.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor. [1](https://twitter.com/tjholowaychuk/status/876951581119229953)
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
