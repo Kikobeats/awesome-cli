@@ -126,7 +126,7 @@
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor. [1](https://twitter.com/tjholowaychuk/status/876951581119229953)
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI.
-- [mxflow](https://github.com/metaory/mxflow-cli) - rocket Streamline and Simplify complex processes 
+- [mxflow](https://github.com/metaory/mxflow-cli) - :zap: A Friendly, General purpose CLI task runner :rocket: 
 - [ncdu](https://github.com/rofl0r/ncdu) - Interactive disk usage.
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool.
 - [pv](https://github.com/icetee/pv) - Monitoring the progress of data through a pipeline.
