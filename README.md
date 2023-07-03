@@ -128,6 +128,7 @@
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI.
 - [ncdu](https://github.com/rofl0r/ncdu) - Interactive disk usage.
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool.
+- [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
 - [pv](https://github.com/icetee/pv) - Monitoring the progress of data through a pipeline.
 - [share](https://github.com/marionebl/share-cli) - Quickly share files from your command line.
 - [spot](https://github.com/rauchg/spot) - Tiny search utility.
