@@ -11,4 +11,4 @@ jobs:
         bundler-cache: true
     - run: |
         gem install awesome_bot
-        awesome_bot README.md --allow-redirect
+        awesome_bot README.md --allow-redirect --skip-save-results -w https://twitter.com/tjholowaychuk/status/876951581119229953
