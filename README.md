@@ -112,6 +112,7 @@
 - [bore](https://github.com/ekzhang/bore) - Making tunnels to localhost
 - [clipboard](https://github.com/sindresorhus/clipboard-cli) - Access the system clipboard (copy/paste).
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs with diff-highlight and more.
+- [dua](https://github.com/Byron/dua-cli) - Interactive disk usage.
 - [entrp](http://eradman.com/entrproject/) - Run arbitrary commands when files change ([alternative](https://github.com/watchexec/watchexec)).
 - [exa](https://github.com/ogham/exa) - A modern replacement for `ls`.
 - [dog](https://github.com/ogham/dog) -  Command-line DNS client alternative to `dig`.
@@ -126,7 +127,6 @@
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor. [1](https://twitter.com/tjholowaychuk/status/876951581119229953)
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI.
-- [ncdu](https://github.com/rofl0r/ncdu) - Interactive disk usage.
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool.
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
 - [pv](https://github.com/icetee/pv) - Monitoring the progress of data through a pipeline.
