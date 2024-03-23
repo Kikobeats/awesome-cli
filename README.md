@@ -124,7 +124,7 @@
 - [httpstat](https://github.com/reorx/httpstat) - `curl` statistics made simple.
 - [hub](https://github.com/github/hub) - It helps you win at git.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
-- [jq](https://github.com/stedolan/jq) - Command-line JSON processor. [1](https://twitter.com/tjholowaychuk/status/876951581119229953)
+- [jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq.
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable.
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI.
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool.
