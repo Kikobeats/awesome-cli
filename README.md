@@ -72,6 +72,7 @@
 - [term-img](https://github.com/sindresorhus/term-img) - Display images in iTerm.
 - [neat-log](https://github.com/neat-log/neat-log) - Logger for stateful Command Line Applications.
 - [cli-table3](https://github.com/cli-table/cli-table3) - Pretty unicode tables for the command line.
+- [img2ascii](https://github.com/JosefVesely/Image-to-ASCII) - Convert images to ASCII art.
 
 ## Framework
 
