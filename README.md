@@ -133,6 +133,7 @@
 - [share](https://github.com/marionebl/share-cli) - Quickly share files from your command line.
 - [spot](https://github.com/rauchg/spot) - Tiny search utility.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Works on all major shells.
+- [CoCo](https://github.com/andre2l2/coco) - A CLI table for show you all conventional commits in your terminal.
 
 ## Bibliography
 
