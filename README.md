@@ -94,6 +94,7 @@
 </div>
 
 - [meow](https://github.com/sindresorhus/meow) - CLI app helper.
+- [telert](https://github.com/navig-me/telert) - Get notified when terminal commands finish (Telegram, Desktop, Slack, etc).
 - [update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app.
 - [signal-exit](https://github.com/tapjs/signal-exit) - When you want to fire an event no matter how a process exits.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
