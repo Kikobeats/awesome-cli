@@ -84,6 +84,11 @@
 
 - [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
 
+## Testing
+
+* [BATS](https://github.com/bats-core/bats-core) – Bash Automated Testing System, a TAP-compliant testing framework for Bash.
+* [Veritaclis](https://github.com/justbyitself/veritaclis) – Simple and powerful test runner for CLI commands using YAML or JavaScript.
+
 ## Helpful
 
 <div align="center">
