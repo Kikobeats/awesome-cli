@@ -109,6 +109,7 @@
 </div>
 
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [aloc](https://github.com/modern-tooling/aloc) - A modern, AI-augmented lines of code counter built with Rust.
 - [bore](https://github.com/ekzhang/bore) - Making tunnels to localhost
 - [clipboard](https://github.com/sindresorhus/clipboard-cli) - Access the system clipboard (copy/paste).
 - [dog](https://github.com/ogham/dog) -  Command-line DNS client alternative to `dig`.
