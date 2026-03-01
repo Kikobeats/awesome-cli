@@ -83,6 +83,7 @@
 </div>
 
 - [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
+- [ink-web](https://github.com/cjroth/ink-web) - Browser-based runtime for Ink that renders React TUI apps in xterm.js.
 
 ## Helpful
 
