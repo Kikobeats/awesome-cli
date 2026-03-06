@@ -132,6 +132,7 @@
 - [pv](https://github.com/icetee/pv) - Monitoring the progress of data through a pipeline.
 - [share](https://github.com/marionebl/share-cli) - Quickly share files from your command line.
 - [spot](https://github.com/rauchg/spot) - Tiny search utility.
+- [rootly](https://github.com/rootlyhq/rootly-cli) - Manage incidents, alerts, services, and on-call schedules.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Works on all major shells.
 
 ## Bibliography
