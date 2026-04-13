@@ -133,6 +133,7 @@
 - [share](https://github.com/marionebl/share-cli) - Quickly share files from your command line.
 - [spot](https://github.com/rauchg/spot) - Tiny search utility.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Works on all major shells.
+- [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) - Terminal-native LifeOS for managing personal workflows, habits, and timelogs.
 
 ## Bibliography
 
