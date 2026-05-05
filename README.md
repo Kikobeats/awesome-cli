@@ -54,6 +54,7 @@
 - [prompts](https://github.com/terkelg/prompts) - Lightweight, beautiful and user-friendly interactive prompts.
 - [ansi-diff-stream](https://github.com/mafintosh/ansi-diff-stream) - A diff friendly cli input module.
 - [email-prompt](https://github.com/zeit/email-prompt) - CLI email prompt featuring autocompletion and validation.
+- [react-ink-textarea](https://github.com/omranjamal/react-ink-textarea) - Full-featured multi-line text input component for React Ink.
 
 ## Output
 
