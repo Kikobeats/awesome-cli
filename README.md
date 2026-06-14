@@ -75,6 +75,7 @@
 
 ## Framework
 
+n- [supercli](https://github.com/javimosch/supercli) - Universal CLI runtime with 7,000+ plugins. Agent-native discovery, deterministic JSON output, MCP support.
 <div align="center">
   <br>
   <img src="https://github.com/vadimdemedes/ink/raw/master/media/demo.svg?sanitize=true">
