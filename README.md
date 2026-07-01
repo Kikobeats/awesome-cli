@@ -110,6 +110,7 @@
 
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [bore](https://github.com/ekzhang/bore) - Making tunnels to localhost
+- [bounty-check](https://github.com/wren-castellan/bounty-check) - Check whether a GitHub bounty issue is actually still claimable before you waste time on it.
 - [clipboard](https://github.com/sindresorhus/clipboard-cli) - Access the system clipboard (copy/paste).
 - [dog](https://github.com/ogham/dog) -  Command-line DNS client alternative to `dig`.
 - [dua](https://github.com/Byron/dua-cli) - Interactive disk usage.
