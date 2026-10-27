@@ -133,6 +133,7 @@
 - [share](https://github.com/marionebl/share-cli) - Quickly share files from your command line.
 - [spot](https://github.com/rauchg/spot) - Tiny search utility.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Works on all major shells.
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local x402 payment runtime and stdio MCP tools for AI agents, for Apple Silicon macOS and Node 24.
 
 ## Bibliography
 
