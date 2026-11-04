@@ -133,6 +133,7 @@
 - [share](https://github.com/marionebl/share-cli) - Quickly share files from your command line.
 - [spot](https://github.com/rauchg/spot) - Tiny search utility.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Works on all major shells.
+- [kilobat](https://github.com/seifip/kilobat-cli) - Network diagnostics for macOS with JSON output and a local MCP server.
 
 ## Bibliography
 
