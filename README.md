@@ -101,6 +101,8 @@
 
 ## Lovely Commands
 
+- [nostairsplease-mcp](https://nostairsplease.com/mcp) - Query 2,200+ North American live-music venues and booking contacts from the CLI via MCP (`npx mcp-remote`).
+
 <div align="center">
   <br>
   <img width="500" src="https://raw.githubusercontent.com/marionebl/share-cli/master/demo.svg?sanitize=true">
